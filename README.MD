@@ -434,6 +434,7 @@ Current CP/M adaptations are:
               and WordStar keys.
 - `te_c128` : Commodore 128 and CP/M Plus (25x80 ADM-31/3A like terminal).
 - `te_sam`  : SAM Coupe and Pro-Dos (24x80 VT52 like terminal).
+- `te_lsx`  : SHARP X1/turbo/Z and LSX-Dodgers.
 
 Adaptations for other OS are (they are not distributed yet):
 - Windows 32 bit (25x80), compiled with Pelles C
